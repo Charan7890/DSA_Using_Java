@@ -27,13 +27,13 @@ public class ReverseLinkedList {
 
       public static void main(String args[]) {
 
-            Scanner sc = new Scanner(System.in);
+            Scanner scan = new Scanner(System.in);
 
-            Node head = null, tail = null, temp = null, newNode = null;
+            Node head = null, tail = null, newNode = null;
 
             while (true) {
 
-                  int element = sc.nextInt();
+                  int element = scan.nextInt();
 
                   newNode = new Node(element);
 
@@ -53,7 +53,7 @@ public class ReverseLinkedList {
 
                   }
 
-                  int option = sc.nextInt();
+                  int option = scan.nextInt();
 
                   if (option == 0) {
 
@@ -62,7 +62,8 @@ public class ReverseLinkedList {
                   }
 
             }
-
+            scan.close();
+            
             displayLL(head);
 
             // code to reverese the linked list in iterative approach.
