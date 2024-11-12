@@ -2,7 +2,7 @@
  * Created on Tue Nov 12 2024
  *
  * author : Charan Naik
- * Description: Type your description here.
+ * Description: This code explain how a linked list can be reversed using iterative approach(by changing the links).
  */
 
 import java.util.Scanner;
