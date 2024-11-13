@@ -1,3 +1,11 @@
+/*
+ * Created on Wed Nov 13 2024
+ *
+ * author : Charan Naik
+ * Description: Deleting the middle node from the linked list(Used tortoise and hare approach).
+ * Leetcode: 2095.
+ */
+
 import java.util.Scanner;
 
 class Node {
