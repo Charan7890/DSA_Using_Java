@@ -1,3 +1,11 @@
+/*
+ * Created on Wed Nov 13 2024
+ *
+ * author : Charan Naik
+ * Description: Need to delete a middle node.
+ * Leetcode: 237
+ */
+
 import java.util.Scanner;
 
 
