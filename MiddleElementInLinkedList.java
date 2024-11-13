@@ -1,4 +1,12 @@
-//Finding middle element in an linked list using two approaches.
+/*
+ * Created on Wed Nov 13 2024
+ *
+ * author : Charan Naik
+ * Description: Finding middle element in an linked list using two approaches.
+ * 
+ */
+
+
 
 import java.util.Scanner;
 
