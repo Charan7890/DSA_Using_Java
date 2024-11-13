@@ -2,7 +2,7 @@
  * Created on Wed Nov 13 2024
  *
  * author : Charan Naik
- * Description: Need to delete a middle node.
+ * Description: Need to delete a middle node. Function provides node details of the node being deleted.
  * Leetcode: 237
  */
 
